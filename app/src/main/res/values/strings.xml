@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyAgenda</string>
+    <string name="buscar_personas">Buscar Personas</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="email">Email</string>
+    <string name="telefono">Teléfono</string>
+    <string name="edad">Edad</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar" />
+    <string name="borrar_personas">¿Borrar Personas?</string>
+    <string name="yes">Sí, Borrar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
